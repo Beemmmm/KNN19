@@ -4,9 +4,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
+st.header("ํYonlada Phukphusa")
 st.image("./pic/beam.jpg")
 
+st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
 col1, col2, col3 = st.columns(3)
 
 with col1:
