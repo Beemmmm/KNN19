@@ -4,13 +4,13 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header("Yonlada")
+st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
 st.image("./pic/beam.jpg")
 
 col1, col2, col3 = st.columns(3)
 
 with col1:
-   st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
+   st.header("Versicolor")
    st.image("./pic/iris1.jpg")
 
 with col2:
