@@ -10,7 +10,7 @@ st.image("./pic/beam.jpg")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-   st.header("Versicolor")
+   st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
    st.image("./pic/iris1.jpg")
 
 with col2:
